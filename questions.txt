@@ -1,0 +1,2 @@
+why main(void) is written?
+what does return(0) do?
